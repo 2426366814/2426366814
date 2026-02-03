@@ -25,18 +25,26 @@
 
 <div align="center">
 
-<!-- 使用 GitHub 官方 API 获取实时数据 -->
-[![GitHub Stats](https://stats.hyochan.dev/api/github-stats?login=2426366814)](https://github.com/2426366814)
+<!-- GitHub 统计徽章 -->
+[![Repos](https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge&logo=github)](https://github.com/2426366814?tab=repositories)
+[![Commits](https://img.shields.io/badge/Commits-1000+-green?style=for-the-badge&logo=git)](https://github.com/2426366814)
+[![Stars](https://img.shields.io/badge/Stars-Earned-yellow?style=for-the-badge&logo=github)](https://github.com/2426366814)
 
 <br/>
 
-<!-- 使用 GitHub 官方语言统计 -->
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2426366814&layout=compact&theme=radical&hide_border=true)](https://github.com/2426366814)
+### 💻 主要编程语言
+
+![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-10%25-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 <br/>
 
-<!-- 连续贡献统计 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=2426366814&theme=radical&hide_border=true)](https://github.com/2426366814)
+### 🔥 贡献活动
+
+[![Contribution](https://img.shields.io/badge/Contribution-Active-brightgreen?style=for-the-badge)](https://github.com/2426366814)
+[![Streak](https://img.shields.io/badge/Streak-Keep%20Coding!-orange?style=for-the-badge)](https://github.com/2426366814)
 
 </div>
 
