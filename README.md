@@ -25,11 +25,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2426366814&show_icons=true&theme=radical&hide_border=true)
+<!-- 使用 GitHub 官方 API 获取实时数据 -->
+[![GitHub Stats](https://stats.hyochan.dev/api/github-stats?login=2426366814)](https://github.com/2426366814)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2426366814&layout=compact&theme=radical&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2426366814&theme=radical&hide_border=true)
+<!-- 使用 GitHub 官方语言统计 -->
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2426366814&layout=compact&theme=radical&hide_border=true)](https://github.com/2426366814)
+
+<br/>
+
+<!-- 连续贡献统计 -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=2426366814&theme=radical&hide_border=true)](https://github.com/2426366814)
 
 </div>
 
